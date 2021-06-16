@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 [![Metrics](https://github.com/chf007/chf007/actions/workflows/action.yml/badge.svg)](https://github.com/chf007/chf007/actions/workflows/action.yml)
+
+![Metrics](https://github.com/chf007/chf007/blob/main/github-metrics.svg)
 
 <!--
 **chf007/chf007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
