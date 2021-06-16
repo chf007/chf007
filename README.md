@@ -1,4 +1,4 @@
-### Hi there 👋 [![Metrics](https://github.com/chf007/chf007/actions/workflows/action.yml/badge.svg)](https://github.com/chf007/chf007/actions/workflows/action.yml)
+[![Metrics](https://github.com/chf007/chf007/actions/workflows/action.yml/badge.svg)](https://github.com/chf007/chf007/actions/workflows/action.yml)
 
 ![Metrics](https://github.com/chf007/chf007/blob/master/github-metrics.svg)
 
