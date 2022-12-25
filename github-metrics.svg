@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elixir-lang/elixir</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Elixir is a dynamic, functional language designed for building scalable and maintainable applications</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datastax/nodejs-driver</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DataStax Node.js Driver for Apache Cassandra</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>larryaasen/upgrader</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Flutter package for prompting users to upgrade when there is a newer version of the app in the store.</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roxiness/routify</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automated Svelte routes</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shenlvmeng/audio-recorder</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin for recording/exporting the output of Web Audio API nodes based on Recorderjs</div>
@@ -566,7 +566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2022, 08:54:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 25 Dec 2022, 09:02:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
