@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>absinthe-graphql/absinthe</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The GraphQL toolkit for Elixir</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bake-bake-bake/bakeware</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compile Elixir applications into single, easily distributed executable binaries</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elixir-mint/mint</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2 🌱</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phodal/migration</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rusterlium/rustler</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safe Rust bridge for creating Erlang NIF functions</div>
@@ -572,7 +572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2023, 09:07:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 30 Jan 2023, 08:58:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
