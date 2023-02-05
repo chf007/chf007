@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>burrito-elixir/burrito</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Wrap your application in a BEAM Burrito!</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tompave/fun_with_flags</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Feature Flags/Toggles for Elixir</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>quantum-elixir/quantum-core</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matrix-org/matrix-spec</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Matrix protocol specification</div>
@@ -525,7 +525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Qix-/color</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -578,7 +578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Feb 2023, 09:00:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Feb 2023, 09:07:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
