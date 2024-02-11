@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tonejs/Tone.js</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Web Audio framework for making interactive music in the browser.</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>casdoor/casdoor</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitcrowd/chromic_pdf</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convenient HTML to PDF/A rendering library for Elixir based on Chrome &amp; Ghostscript</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shadow1ng/fscan</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DominicBreuker/goncat</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">netcat-like CLI tool with advanced features for bind/reverse shells</div>
@@ -572,7 +572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2024, 08:49:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2024, 08:54:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
