@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>javascript-obfuscator/javascript-obfuscator</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful obfuscator for JavaScript and Node.js</div>
@@ -344,7 +344,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        822
+                                        823
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qcam/saxy</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast SAX parser and encoder for XML in Elixir</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kenjihiranabe/The-Art-of-Linear-Algebra</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mtrudel/thousand_island</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Thousand Island is a pure Elixir socket server</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wu67/block_BT_vampire</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Block BT vampire by ipset iptables/ip6tables, just for aria2 rpc mode. 通过 ipset iptables/ip6tables 屏蔽掉部分 BT 吸血客户端, 仅适用于 aria2 rpc 模式</div>
@@ -572,7 +572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2024, 08:50:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 09:05:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
