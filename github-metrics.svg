@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robbie-cahill/tunnelmole-client</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tunnelmole - Connect to local servers from anywhere</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>javascript-obfuscator/javascript-obfuscator</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful obfuscator for JavaScript and Node.js</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qcam/saxy</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast SAX parser and encoder for XML in Elixir</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kenjihiranabe/The-Art-of-Linear-Algebra</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"</div>
@@ -522,7 +522,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mtrudel/thousand_island</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Thousand Island is a pure Elixir socket server</div>
@@ -572,7 +572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2024, 09:01:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Aug 2024, 09:00:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
