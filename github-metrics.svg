@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getActivity/DeviceCompat</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">解决 Android 适配的最后一公里</div>
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>composablehorizons/compose-unstyled</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The missing Design System layer for Compose UI</div>
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HudsonAndroid/WanAndroidJetpack</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jetpack kotlin wanandroid, with paging3, navigation, room, MVVM</div>
@@ -469,7 +469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imthenachoman/How-To-Secure-A-Linux-Server</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 08 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">An evolving how-to guide for securing a Linux server.</div>
@@ -566,7 +566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2025, 09:17:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2025, 09:16:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
