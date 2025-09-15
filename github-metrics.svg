@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.32940022672517" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="219.32940022672517" y="0" width="104.01546449173588" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="323.34486471846105" y="0" width="50.10412320918783" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="373.44898792764894" y="0" width="45.041162195870456" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="418.49015012351936" y="0" width="11.191766250275762" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="429.6819163737951" y="0" width="10.792275617432939" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="440.47419199122805" y="0" width="10.348776710650185" height="8" fill="#db5855"/>
-                    <rect mask="url(#languages-bar)" x="450.8229687018782" y="0" width="9.177031298121763" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.06971767475275" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="219.06971767475275" y="0" width="103.76450549954471" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="322.83422317429745" y="0" width="49.81512707802432" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="372.64935025232177" y="0" width="45.02896623408385" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="417.67831648640566" y="0" width="12.011809226831927" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="429.6901257132376" y="0" width="10.789353353117283" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="440.4794790663549" y="0" width="10.345974534170985" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="450.82545360052586" y="0" width="9.174546399474174" height="8" fill="#ff6347"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getActivity/DeviceCompat</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">解决 Android 适配的最后一公里</div>
@@ -331,7 +331,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        318
+                                        319
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -363,7 +363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>composablehorizons/compose-unstyled</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The missing Design System layer for Compose UI</div>
@@ -384,7 +384,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        837
+                                        839
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -416,7 +416,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HudsonAndroid/WanAndroidJetpack</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jetpack kotlin wanandroid, with paging3, navigation, room, MVVM</div>
@@ -537,7 +537,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        969
+                                        970
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -566,7 +566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2025, 09:16:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2025, 09:17:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
