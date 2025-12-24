@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.79180579843813" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="217.79180579843813" y="0" width="103.07423335266753" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="320.86603915110567" y="0" width="49.48374213526797" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="370.3497812863736" y="0" width="44.72942024728978" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="415.07920153366337" y="0" width="13.598230682031645" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="428.67743221569503" y="0" width="11.931903123073539" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="440.6093353387686" y="0" width="10.277150054944126" height="8" fill="#db5855"/>
-                    <rect mask="url(#languages-bar)" x="450.8864853937127" y="0" width="9.113514606287273" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.6917933436479" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="217.6917933436479" y="0" width="103.02690050162003" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="320.7186938452679" y="0" width="49.461018642503795" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="370.1797124877718" y="0" width="44.708879992784446" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="414.8885924805562" y="0" width="13.803223411710018" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="428.6918158922662" y="0" width="11.926423858519561" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="440.6182397507858" y="0" width="10.272430671671303" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="450.8906704224571" y="0" width="9.109329577542963" height="8" fill="#ff6347"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -310,7 +310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>addyosmani/gemini-cli-tips</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gemini CLI Tips and Tricks</div>
@@ -319,7 +319,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.99k
+                                        2k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -351,7 +351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chaos-zhu/easyimg</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">适用于个人的一站式图床服务，更新通知TG：</div>
@@ -372,7 +372,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        136
+                                        140
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -404,7 +404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>elixir-wallaby/wallaby</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Concurrent browser tests for your Elixir web apps.</div>
@@ -561,7 +561,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Dec 2025, 09:22:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2025, 09:21:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
